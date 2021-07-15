@@ -1,4 +1,4 @@
-# passport-missions-metadata-import
+# gos-missions-passport-metadata
 
 ## Requirements
 
